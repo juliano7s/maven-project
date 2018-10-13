@@ -14,7 +14,7 @@ public class Greeter {
 
   /**
    * Greet someone.
-   * @param someone
+   * @param someone name of someone
    * @return Greeting message
    */
   public final String greet(final String someone) {
